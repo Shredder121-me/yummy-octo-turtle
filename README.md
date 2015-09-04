@@ -1,2 +1,2 @@
 # yummy-octo-turtle
-Yet another test repo for testing webhooks
+Yet another test repository for testing webhooks

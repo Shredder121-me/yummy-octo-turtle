@@ -13,3 +13,5 @@ Yet another test repository for testing webhooks.
 7         | Seventh item
 
 Check this out, it works like a charm.
+
+## PRs welcome

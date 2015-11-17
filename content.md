@@ -1,2 +1,2 @@
-Here is some content
+This is some content
 Here is more content

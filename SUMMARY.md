@@ -1,5 +1,3 @@
 # Summary
 
-* Welcome
-   * Welcmo
 

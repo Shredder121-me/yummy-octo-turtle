@@ -12,6 +12,4 @@ Yet another test repository for testing web hooks.
  6         | Sixth item
  7         | Seventh item
 
-Check this out, it works like a charm.
-
 ## PRs welcome

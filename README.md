@@ -1,6 +1,6 @@
 # yummy-octo-turtle
 
-Test repository for testing web hooks.
+Repository for testing web hooks.
 
  Number    | Item               
  ----------|--------------

@@ -12,5 +12,3 @@ Repository for testing web hooks.
  6         | Sixth item
  7         | Seventh item
 
-## PRs welcome
-

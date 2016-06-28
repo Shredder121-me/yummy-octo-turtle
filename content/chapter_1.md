@@ -1,6 +1,6 @@
 # Chapter 1 - Web hooks
 
-Web hooks are a fun way to dynamically add behavior to web services, without having to go to the web service for support.
+Web hooks are a nice and fun way to dynamically add behavior to web services, without having to go to the web service for support.
 
 ```groovy
 import org.springframework.context.annotation.Bean

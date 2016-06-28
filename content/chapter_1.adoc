@@ -3,7 +3,7 @@
 
 Web hooks are a nice and fun way to dynamically add behavior to web services, without having to go to the web service for support.
 
-```groovy
+```
 import org.springframework.context.annotation.Bean
 
 import com.github.shredder121.gh_event_api.GHEventApiServer

@@ -3,8 +3,10 @@
 
 Web hooks are a nice and fun way to dynamically add behavior to web services, without having to go to the web service for support.
 
+[[minimal-webhook]]
 [source,groovy]
---
+.Application.java
+----
 
 import org.springframework.context.annotation.Bean
 
@@ -22,7 +24,7 @@ class Application {
 }
 
 GHEventApiServer.start Application
---
+----
 
 This is an example of a minimal server.
 

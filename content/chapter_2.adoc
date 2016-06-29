@@ -5,3 +5,14 @@
 ""
 Click menu:File[Exit] to close any program.
 ""
+
+.Example table
+|===
+| heading 1 | heading 2
+
+| cell 1
+| cell 2
+
+| cell 1
+| cell 2
+|===

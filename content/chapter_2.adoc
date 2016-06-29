@@ -10,6 +10,6 @@ Click menu:File[Exit] to close any program.
 |===
 | heading 1 | heading 2
 
-| cell 1
-| cell 2
+| cell 1, row 1
+| cell 2, row 1
 |===

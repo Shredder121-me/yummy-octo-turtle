@@ -3,7 +3,7 @@
 Repository for testing web hooks.
 
 |=====
-| Number | Item 
+| Number | Item
 
 | 1
 | First item

@@ -1,2 +1,4 @@
 = Chapter 2
+:experimental:
 
+Click menu:File[Exit] to close any program.

@@ -9,5 +9,5 @@ Repository for testing web hooks.
 | First item
 
 | 2
-| Second
+| Second item
 |=====

@@ -12,5 +12,5 @@ Repository for testing web hooks.
 | Second item
 
 | 3
-| Thrid item
+| Third item
 |=====

@@ -1,4 +1,7 @@
 = Chapter 2
 :experimental:
 
+.Protip
+""
 Click menu:File[Exit] to close any program.
+""

@@ -12,7 +12,4 @@ Click menu:File[Exit] to close any program.
 
 | cell 1
 | cell 2
-
-| cell 1
-| cell 2
 |===

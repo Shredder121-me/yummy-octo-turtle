@@ -7,23 +7,23 @@ Repository for testing web hooks.
 | Number | Item
 
 | kbd:[1]
-| First item
+| btn:[First item]
 
 | kbd:[2]
-| Second item
+| btn:[Second item]
 
 | kbd:[3]
-| Third item
+| btn:[Third item]
 
 | kbd:[4]
-| Fourth item
+| btn:[Fourth item]
 
 | kbd:[5]
-| Fifth item
+| btn:[Fifth item]
 
 | kbd:[6]
-| Sixth item
+| btn:[Sixth item]
 
 | kbd:[7]
-| Seventh item
+| btn:[Seventh item]
 |=====

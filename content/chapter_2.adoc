@@ -10,7 +10,7 @@ $$
 $$
 
 $$\Huge \color{blue}{\checkmark}$$
-The reciprocal of 2 is $$\reci{2}$$.
+The reciprocal of 2 is $\reci{2}$.
 $$
 \huge \color{black}{\card{3}{\heartsuit}}
 $$

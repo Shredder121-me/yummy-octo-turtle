@@ -1,7 +1,8 @@
 {
     "plugins": [
         "abc2svg",
-        "bibtex"
+        "bibtex",
+        "emoji"
     ],
     "pluginsConfig": {}
 }

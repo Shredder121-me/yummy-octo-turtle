@@ -1,7 +1,14 @@
-= Title here
+= Ratio of circumference to radius
 
+Note that, by definition,
 $$
-
-\huge \pi^2
-
+\text{diameter}=2\cdot\text{radius}
+$$
+So that
+$$
+\pi=\frac{\text{circumference}}{\text{diameter}}=\frac{\text{circumference}}{2\cdot\text{radius}}=\frac{1}{2}\cdot\left(\frac{\text{circumference}}{\text{radius}}\right)
+$$
+Or in other words
+$$
+\frac{\text{circumference}}{\text{radius}}=2\pi.
 $$

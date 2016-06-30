@@ -3,7 +3,8 @@
         "abc2svg",
         "bibtex",
         "emoji",
-        "mathjax"
+        "mathjax",
+        "mathjax-update"
     ],
     "pluginsConfig": {}
 }

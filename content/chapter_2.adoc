@@ -1,7 +1,0 @@
-= The one chapter: 2
-
-$$
-
-\huge 42
-
-$$

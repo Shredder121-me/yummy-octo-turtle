@@ -1,12 +1,5 @@
 = The one chapter: 2
-:experimental:
-
 
 $$
-\sqrt{6^{2}}
-$$
-$$
-\begin{equation*}
-y = \int_0^\infty \gamma^2 \cos(x) dx
-\end{equation*}
+\huge 42
 $$

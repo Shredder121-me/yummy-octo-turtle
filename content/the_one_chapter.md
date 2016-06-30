@@ -3,5 +3,5 @@
 And thus came the story.
 The story about the one chapter.
 
-## Part one: The one part
+## Part one: The One part
 This is the one 

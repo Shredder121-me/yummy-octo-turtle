@@ -2,11 +2,19 @@
 
 Why is there so much margin$$\huge ?$$
 
-$$\color{blue}{\checkmark}$$
+$$
+
+\begin{equation}
+  \color{red}{4 \le 10}
+\end{equation}
+$$
+
+$$\Huge \color{blue}{\checkmark}$$
 The reciprocal of 2 is $$\Large \reci{2}$$.
 $$
-\huge \color{red}{\card{3}{\diamondsuit}}
+\huge \color{black}{\card{3}{\heartsuit}}
 $$
+
 
 The hypotenuse has length $$\color{blue}{\hypot{3}{4}}$$.
 

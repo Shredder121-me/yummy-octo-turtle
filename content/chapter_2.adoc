@@ -1,2 +1,4 @@
 = The one chapter: 2
 :experimental:
+
+kbd:[l]

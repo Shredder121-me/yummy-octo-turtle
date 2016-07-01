@@ -1,15 +1,6 @@
 {
     "plugins": [
-        "mathjax",
-        "mathjax-update"
+        "katex"
     ],
-    "pluginsConfig": {
-        "mathjax": {
-            "forceSVG": true,
-            "version": "2.6-latest"
-        },
-        "mathjax-update": {
-            "forceSVG": true
-        }
-    }
+    "pluginsConfig": {}
 }

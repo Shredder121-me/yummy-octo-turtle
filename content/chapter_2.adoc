@@ -1,5 +1,10 @@
 = Chapter 2
-
+$$
+\newcommand{\reci}[1]{\frac{1}{#1}}
+\newcommand{\hypot}[2]{\sqrt{#1^2+#2^2}}
+\newcommand{\cbrt}[1]{\sqrt[3]{#1}}
+\newcommand{\card}[2]{#1#2}
+$$
 Why is there so much margin$$\huge ?$$
 
 $$
@@ -21,9 +26,3 @@ The hypotenuse has length $$\hypot{3}{4}$$.
 I'm sick of writing `$$\backslash$$sqrt[3]{2}' all the time, just to get $$\cbrt{2}$$.
 
 
-$$
-\newcommand{\reci}[1]{\frac{1}{#1}}
-\newcommand{\hypot}[2]{\sqrt{#1^2+#2^2}}
-\newcommand{\cbrt}[1]{\sqrt[3]{#1}}
-\newcommand{\card}[2]{#1#2}
-$$

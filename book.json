@@ -7,6 +7,9 @@
         "mathjax": {
             "forceSVG": true,
             "version": "2.6-latest"
+        },
+        "mathjax-update": {
+            "forceSVG": true
         }
     }
 }

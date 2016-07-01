@@ -5,8 +5,7 @@
     ],
     "pluginsConfig": {
         "mathjax": {
-            "forceSVG": true,
-            "version": "2.6-latest"
+            "forceSVG": true
         },
         "mathjax-update": {
             "forceSVG": true

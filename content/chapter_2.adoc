@@ -3,23 +3,22 @@
 Why is there so much margin$$\huge ?$$
 
 $$
-
 \begin{equation}
-    \color{red}{4 \le 10}
+    4 \le 10
 \end{equation}
 $$
 
-$$\Huge \color{blue}{\checkmark}$$
+$$\Huge \checkmark$$
 
 The reciprocal of 2 is $$\reci{2}$$.
 $$
-\huge \color{black}{\card{3}{\heartsuit}}
+\huge \card{3}{\heartsuit}
 $$
 
 
-The hypotenuse has length $$\color{blue}{\hypot{3}{4}}$$.
+The hypotenuse has length $$\hypot{3}{4}$$.
 
-I'm sick of writing `$$\backslash$$sqrt[3]{2}' all the time, just to get $$\color{blue}{\cbrt{2}}$$.
+I'm sick of writing `$$\backslash$$sqrt[3]{2}' all the time, just to get $$\cbrt{2}$$.
 
 
 $$\newcommand{\reci}[1]{\frac{1}{#1}}$$

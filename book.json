@@ -1,7 +1,7 @@
 {
     "plugins": [
         "mathjax",
-        "mathjax-update",
+        "mathjax-update"
     ],
     "pluginsConfig": {
         "mathjax": {

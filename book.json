@@ -3,5 +3,10 @@
         "mathjax",
         "mathjax-update"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "mathjax": {
+            "forceSVG": true,
+            "version": "2.6-latest"
+        }
+    }
 }

@@ -6,11 +6,11 @@
     ],
     "pluginsConfig": {
         "mathjax": {
-            "forceSVG": false,
+            "forceSVG": true,
             "version": "2.6-latest"
         },
         "mathjax-update": {
-            "forceSVG": false
+            "forceSVG": true
         }
     }
 }

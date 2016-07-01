@@ -2,7 +2,6 @@
     "plugins": [
         "mathjax",
         "mathjax-update",
-        "katex"
     ],
     "pluginsConfig": {
         "mathjax": {
